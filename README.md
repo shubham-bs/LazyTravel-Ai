@@ -1,12 +1,5 @@
 <h1 align="center">LazyTravel Ai</h1>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/status-in%20progress-f59e0b.svg" alt="Status">
-  <a href="https://github.com/KalyanM45/TravelBrain-Multi-Agent-AI-Travel-Planner/issues"><img src="https://img.shields.io/github/issues/KalyanM45/TravelBrain-Multi-Agent-AI-Travel-Planner.svg" alt="GitHub Issues"></a>
-  <a href="https://github.com/KalyanM45/TravelBrain-Multi-Agent-AI-Travel-Planner/pulls"><img src="https://img.shields.io/github/issues-pr/KalyanM45/TravelBrain-Multi-Agent-AI-Travel-Planner.svg" alt="GitHub Pull Requests"></a>
-  <a href="LICENSE"><img src="https://img.shields.io/badge/license-GPL--3.0-blue.svg" alt="License"></a>
-</p>
-
 ---
 
 <p align="center"> A multi-agent AI travel planner. Describe the trip you want in
@@ -14,16 +7,6 @@
     itinerary — researched for you in about a minute.
     <br>
 </p>
-
-## 📝 Table of Contents
-
-- [About](#about)
-- [Getting Started](#getting_started)
-- [Usage](#usage)
-- [Troubleshooting](#troubleshooting)
-- [Contributing](#contributing)
-- [Authors](#authors)
-- [Acknowledgements](#acknowledgement)
 
 ## 🧐 About <a name = "about"></a>
 
@@ -39,11 +22,6 @@ Planning a trip usually means juggling half a dozen browser tabs — one for fli
 
 Plans are saved as you go, so you can reopen a trip later and ask follow-up
 questions without starting over.
-
-## 🏁 Getting Started <a name = "getting_started"></a>
-
-These instructions will get you a copy of the project up and running on your
-local machine.
 
 ### Prerequisites
 
